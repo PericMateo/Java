@@ -1,0 +1,3 @@
+Naziv Racunala: Lenovo Velicina zaslona: 22"" Cijena: 123455kn
+Naziv Racunala: konki Velicina zaslona: 66"" Cijena: 9900kn
+Naziv Racunala: asus Velicina zaslona: 1300"" Cijena: 0kn
